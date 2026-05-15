@@ -3,7 +3,7 @@ I write about DevOps, Cloud, SaaS, Fintech, and Startups—focusing on real-worl
 
 ## 🌐 My Blogs
 
-## [Scaling Fintech Infrastructure Without Affecting Transaction Speed](https://www.sygitech.com/blog/scaling-fintech-infrastructure-transaction-speed/)
+### [Scaling Fintech Infrastructure Without Affecting Transaction Speed](https://www.sygitech.com/blog/scaling-fintech-infrastructure-transaction-speed/)
 Improve fintech transaction performance with scalable infrastructure, optimized system performance, and dependable cloud architecture.
 
 
