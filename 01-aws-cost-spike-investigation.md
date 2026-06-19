@@ -390,7 +390,3 @@ Investigating cost spikes reactively is a tax on your engineering time. The goal
 >
 > 👉 [See how we reduce cloud costs](https://www.sygitech.com/cloud-optimization.html)
 
----
-
-*Maintained by [Sygitech](https://www.sygitech.com) — Managed Cloud Services for Engineering Teams*  
-*Have a cost spike pattern not covered here? Open a Discussion.*
